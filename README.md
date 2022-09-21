@@ -9,3 +9,10 @@ Para inicar el proyecto desde la carpeta api ejecutar el comando npm start para 
 Y desde la carpeta client ejecutar npm run dev;
 
 Proteccion de rutas, para entra tenes que registrarte y logearte.
+
+![preview img](/preview.png)
+![preview img](/preview2.png)
+![preview img](/preview3.png)
+![preview img](/preview4.png)
+![preview img](/preview5.png)
+![preview img](/preview6.png)
