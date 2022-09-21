@@ -1,0 +1,3 @@
+const user = await User.findOne({where: {id:1}});
+  const record = await Balance.findOne({where: {id:1}});
+  await user.addBalances(record)

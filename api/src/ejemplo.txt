@@ -1,0 +1,4 @@
+get /balance recupera todas los balances
+post /balance crea un balance
+put /balance/id:1 edita balance 1
+delete /balance/id: 1 elimina balance 1
