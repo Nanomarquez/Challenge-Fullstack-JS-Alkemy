@@ -72,20 +72,40 @@ de Frontend
 
 <h2 align="center"> Register </h2>
 
+<p align="center">
+
 ![preview1 img](/assets/preview1.PNG)
+
+</p>
 
 <h2 align="center"> Login </h2>
 
+<p align="center">
+
 ![preview2 img](/assets/preview2.PNG)
+
+</p>
 
 <h2 align="center"> Succes </h2>
 
+<p align="center">
+
 ![preview3 img](/assets/preview3.PNG)
+
+</p>
 
 <h2 align="center"> Home </h2>
 
+<p align="center">
+
 ![preview4 img](/assets/preview4.PNG)
+
+</p>
 
 <h2 align="center"> Form </h2>
 
+<p align="center">
+
 ![preview5 img](/assets/preview5.PNG)
+
+</p>
